@@ -1,0 +1,38 @@
+div {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.canvas-img {
+  width: 200px;
+  position:absolute;
+}
+
+.container .rotate-button {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: red;
+}
+
+
+.container .rotate-img {
+    position: relative;
+    display: block;
+    bottom: 0;
+    left: 0;
+    color: red;
+  }
+#arrowImg {
+  position: absolute;
+}
+#modelImg {
+  position: absolute;
+}
+.container .class {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: red;
+  }
+
